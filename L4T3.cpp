@@ -9,10 +9,7 @@ using namespace std;
 int main() {
 	setlocale(LC_ALL, "");
 
-	int sum{};
-	int target{};
-	int repeat{};
-	int i{};
+	int sum{}, target{}, repeat{}, i{};
 
 	cout << "Введите цель(20-100):\n";
 	cin >> target;
