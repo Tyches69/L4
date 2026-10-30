@@ -20,8 +20,7 @@ int main() {
 		return 1;
 	}
 
-	long long i{};
-	long long maxnumber{};
+	long long i{}, maxnumber{};
 
 	cout << "";
 
